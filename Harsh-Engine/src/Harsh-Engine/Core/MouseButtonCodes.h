@@ -1,0 +1,15 @@
+#pragma once
+
+// From glfw3.h
+#define HARSH_MOUSE_BUTTON_1         0
+#define HARSH_MOUSE_BUTTON_2         1
+#define HARSH_MOUSE_BUTTON_3         2
+#define HARSH_MOUSE_BUTTON_4         3
+#define HARSH_MOUSE_BUTTON_5         4
+#define HARSH_MOUSE_BUTTON_6         5
+#define HARSH_MOUSE_BUTTON_7         6
+#define HARSH_MOUSE_BUTTON_8         7
+#define HARSH_MOUSE_BUTTON_LAST      HARSH_MOUSE_BUTTON_8
+#define HARSH_MOUSE_BUTTON_LEFT      HARSH_MOUSE_BUTTON_1
+#define HARSH_MOUSE_BUTTON_RIGHT     HARSH_MOUSE_BUTTON_2
+#define HARSH_MOUSE_BUTTON_MIDDLE    HARSH_MOUSE_BUTTON_3

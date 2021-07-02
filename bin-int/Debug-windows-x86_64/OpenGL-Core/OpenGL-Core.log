@@ -1,0 +1,15 @@
+﻿  glpch.cpp
+  Application.cpp
+  Layer.cpp
+  LayerStack.cpp
+  Log.cpp
+  ImGuiBuild.cpp
+  ImGuiLayer.cpp
+  OpenGLDebug.cpp
+  OrthographicCamera.cpp
+  OrthographicCameraController.cpp
+  Shader.cpp
+  WindowsInput.cpp
+  WindowsWindow.cpp
+  stb_image.cpp
+  OpenGL-Core.vcxproj -> D:\dev\OPENGLBASE\bin\Debug-windows-x86_64\OpenGL-Core\OpenGL-Core.lib

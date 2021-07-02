@@ -1,0 +1,11 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: D:/dev/OPENGLBASE/OpenGL-Core/vendor/spdlog/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_fbb0b && [1/2] Building CXX object CMakeFiles\cmTC_fbb0b.dir\CheckIncludeFile.cxx.obj
+FAILED: CMakeFiles/cmTC_fbb0b.dir/CheckIncludeFile.cxx.obj 
+C:\PROGRA~2\MICROS~2\2019\PROFES~1\VC\Tools\MSVC\1429~1.300\bin\Hostx64\x64\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_fbb0b.dir\CheckIncludeFile.cxx.obj /FdCMakeFiles\cmTC_fbb0b.dir\ /FS -c CheckIncludeFile.cxx
+CheckIncludeFile.cxx(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
